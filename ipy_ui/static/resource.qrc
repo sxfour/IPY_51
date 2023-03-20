@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/sql.ico</file>
+    <file>icons/help.ico</file>
+    <file>icons/database.ico</file>
+    <file>icons/exit.ico</file>
+    <file>icons/menu.ico</file>
+    <file>icons/find_user.ico</file>
+    <file>icons/home.ico</file>
+    <file>icons/info.ico</file>
+    <file>icons/left_arrow.ico</file>
+    <file>icons/right_arrow.ico</file>
+  </qresource>
+</RCC>
