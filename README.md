@@ -15,7 +15,7 @@
 
 Структура проекта:
 
-![image](https://user-images.githubusercontent.com/112577182/225367952-8c3d7a9e-17f4-46df-82c9-d417822bab90.png)
+![изображение](https://user-images.githubusercontent.com/112577182/227530711-151fb627-cba1-4f17-846c-003acfb2ecb2.png)
 
 - Основной backend соединения с бд в packages, .ini в postgresql
 - Логирование исключений в stack
