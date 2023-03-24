@@ -151,11 +151,10 @@ class MainWindow(QMainWindow):
                 logging.info('\n[!] [SEARCH] Request ignored : [{0}]'.format(bad_request))
 
                 findErrorWindow(message=bad_request, text='Запрос содержит запрещённые символы.')
-                print('Error')
+                
             if len(bad_request) > 0:
                 logging.info('\n[!] [SEARCH] Filtered message : {0}'.format(bad_request))
 
-                findErrorWindow(message=bad_request, text='Запрос [{0}] содержит запрещённые символы.'.format(check_phrase))
             else:
                 # Условие сработает даже если запрос содержит плохие символы
                 # Поэтому некоторые функции отключены, запрос без запрещённых символов
