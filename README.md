@@ -31,10 +31,6 @@
 
 ![image](https://user-images.githubusercontent.com/112577182/225367670-4f3b8674-92c4-498d-a0da-c1d9459e2b1c.png)
 
-Структура проекта:
-
-![изображение](https://user-images.githubusercontent.com/112577182/227530711-151fb627-cba1-4f17-846c-003acfb2ecb2.png)
-
 - Основной backend соединения с бд в packages, .ini в postgresql
 - Логирование исключений в stack
 - UI в main.py, все остальное (окна и тд. по папкам)
