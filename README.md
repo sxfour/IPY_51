@@ -58,4 +58,4 @@
 ![image](https://user-images.githubusercontent.com/112577182/230734023-d70e0ee4-c4b1-4f67-a975-0b653f9b64ee.png)
 
 Таблица создана через импорт csv файла в postgreSQL
-c помощью команды SQL Shell : \COPY tickets FROM ‘Локальный csv’ DELIMITER ‘,’ CSV HEADER;
+c помощью команды \COPY tickets FROM ‘Локальный csv’ DELIMITER ‘,’ CSV HEADER;
