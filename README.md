@@ -94,3 +94,6 @@ c помощью команды \COPY tickets FROM ‘Локальный csv’ 
 ![image](https://user-images.githubusercontent.com/112577182/230734130-592dd931-fc74-4ddc-ba42-88ce245ea321.png)
 
 Где tickets – название созданной в БД таблицы, из – путь, где хранится  .csv-файл, DELIMITER ‘,’ – разделитель, используемый в импортируемом .csv-файле, сам формат файла и HEADER, указывающий на заголовки «колонок».
+
+# Логирование.
+![image](https://user-images.githubusercontent.com/112577182/230735446-c98dcdf4-995f-4828-8fa3-feb2b79f962b.png)
