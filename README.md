@@ -56,6 +56,9 @@
 ![image](https://user-images.githubusercontent.com/112577182/230734572-88fc62cb-184f-4866-8486-a26d9f00ab3d.png)
 
 В основном для поиска, пользователь будет использовать кириллицу.
+
+![image](https://user-images.githubusercontent.com/112577182/230734764-b8b43b41-0534-4a97-83cc-b0214e571db7.png)
+
 Ниже приведён пример функции фильтрации запроса пользователя.
 
 ![image](https://user-images.githubusercontent.com/112577182/230734645-40c5d608-587f-4cea-95d0-eb9ae13a8c39.png)
