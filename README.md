@@ -50,6 +50,8 @@
 
 ![image](https://user-images.githubusercontent.com/112577182/230735335-ca86148a-b506-4b8e-8a48-e5b5da9fd9d2.png)
 
+Пример сообщения  в почте.
+![image](https://user-images.githubusercontent.com/112577182/230735383-269b00a7-caa8-4697-911c-4d8dd1c056c6.png)
 
 # Как редактируется таблица?
 
