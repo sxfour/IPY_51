@@ -283,8 +283,7 @@ class SubscribersPage(QWidget, object):
             counter = 0
             self.ui.tableWidget.setRowCount(len(data))
             for rows in data:
-                self.ui.comboBox.addItem('{0}, {1}'.format(rows[5], rows[6]))
-
+                # self.ui.comboBox.addItem('{0}, {1}'.format(rows[5], rows[6]))
                 for double_counter in range(len(data[0])):
                     if type(rows[double_counter]) != int:
                         self.ui.tableWidget.setItem(counter, double_counter,
