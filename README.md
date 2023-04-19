@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/112577182/225367670-4f3b8674-92c4-498d-a0da-c1d9459e2b1c.png)
 
 - Основной backend соединения с бд в packages, .ini в postgresql
-- Логирование исключений в stack
+- Логирование исключений.
 - UI в main.py, все остальное (окна и тд. по папкам)
 
 На данный момент реализовано:
