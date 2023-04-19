@@ -34,6 +34,8 @@
 
 ![image](https://user-images.githubusercontent.com/112577182/230735335-ca86148a-b506-4b8e-8a48-e5b5da9fd9d2.png)
 
+Отправка детальной информации о клиенте в письме через PowerShell.
+
 ![изображение](https://user-images.githubusercontent.com/112577182/233072684-89bd432a-752a-4f6a-93d3-83f2af6e6910.png)
 
 # Как редактируется таблица?
