@@ -98,3 +98,6 @@ c помощью команды \COPY tickets FROM ‘Локальный csv’ 
 
 # Логирование.
 ![image](https://user-images.githubusercontent.com/112577182/230735446-c98dcdf4-995f-4828-8fa3-feb2b79f962b.png)
+
+![изображение](https://user-images.githubusercontent.com/112577182/233073098-e551148a-c2d1-4b0d-afdd-d67d028ff411.png)
+
