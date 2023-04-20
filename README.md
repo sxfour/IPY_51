@@ -13,8 +13,8 @@
  - Исправлен баг с ошибкой при редактировании таблицы.
 
 # Full stack проект, для работы с реляционной базой данных.
-
-https://user-images.githubusercontent.com/112577182/233446231-6b4a7212-6676-4a55-925e-1ed85d3e19e7.mp4
+Пример работы :
+https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6-9e66-ea31b8e67ab5.mp4
 
 ![image](https://user-images.githubusercontent.com/112577182/225367670-4f3b8674-92c4-498d-a0da-c1d9459e2b1c.png)
 
