@@ -1,0 +1,12 @@
+2023-04-23 18:16:39,464 INFO 
+[+] [SQL] Request : [SELECT version(), CURRENT_DATE;] completed, connection closed
+2023-04-23 18:16:39,537 INFO 
+[+] [SQL] Request : [SELECT * FROM ipy_names;] completed, connection closed
+2023-04-23 18:16:39,537 INFO 
+[!] [TIME] Datetime (OK) : Server : 2023-04-23, Client : 23.04.2023
+2023-04-23 18:16:43,690 INFO 
+[+] [SQL] Request : [SELECT * FROM login_data WHERE login = '2421';] completed, connection closed
+2023-04-23 18:16:49,438 INFO 
+[+] [SQL] Request : [SELECT * FROM login_data WHERE login = 'test';] completed, connection closed
+2023-04-23 18:18:22,630 INFO 
+[+] [SQL] Request : [SELECT version(), CURRENT_DATE;] completed, connection closed
