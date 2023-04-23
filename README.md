@@ -43,6 +43,9 @@ https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6
 
 ![image](https://user-images.githubusercontent.com/112577182/233430025-0094ed12-30b3-40ca-a016-8938598120e5.png)
 
+Проверка mac устройства через запрос к PostgreSQL
+
+![image](https://user-images.githubusercontent.com/112577182/233848483-75f93ed1-0030-4ec9-b9a9-632e9cbac6e0.png)
 
 # Отправка обращений через SMTP.
 Для связи с администратором создана вкладка создать тикет.
