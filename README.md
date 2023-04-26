@@ -17,7 +17,7 @@
  - Добавлена вкладка для создания новых пользователей в таблицу.
  - Исправлен баг с ошибкой при редактировании таблицы.
 
-# Full stack проект для работы с реляционной базой данных PostgreSQL.
+# Full stack проект для работы с реляционной базой данных.
 Пример работы :
 
 https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6-9e66-ea31b8e67ab5.mp4
@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6
 ![image](https://user-images.githubusercontent.com/112577182/230734344-f30db470-ccc8-4019-bf93-e08f95c61b99.png)
 
 
-# Соединение с помощью PostgreSQL.
+# Соединение с сервером через PostgreSQL.
 
 ![image](https://user-images.githubusercontent.com/112577182/230734023-d70e0ee4-c4b1-4f67-a975-0b653f9b64ee.png)
 
