@@ -1,0 +1,6 @@
+2023-04-26 11:31:17,717 INFO 
+[+] [SQL] Request : [SELECT version(), CURRENT_DATE;] completed, connection closed
+2023-04-26 11:31:17,774 INFO 
+[+] [SQL] Request : [SELECT * FROM ipy_names;] completed, connection closed
+2023-04-26 11:31:17,774 INFO 
+[!] [TIME] Datetime (OK) : Server : 2023-04-26, Client : 26.04.2023
