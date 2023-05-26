@@ -25,7 +25,7 @@
 
 https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6-9e66-ea31b8e67ab5.mp4
 
-![image](https://user-images.githubusercontent.com/112577182/225367670-4f3b8674-92c4-498d-a0da-c1d9459e2b1c.png)
+![изображение](https://github.com/sxfour/IPY_51/assets/112577182/cbb77145-fdc8-435b-b727-ecd24ce174ac)
 
 - Основной backend соединения с бд в packages, .ini в postgresql
 - Логирование исключений.
