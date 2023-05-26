@@ -25,8 +25,6 @@
 
 https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6-9e66-ea31b8e67ab5.mp4
 
-![изображение](https://github.com/sxfour/IPY_51/assets/112577182/cbb77145-fdc8-435b-b727-ecd24ce174ac)
-
 - Основной backend соединения с бд в packages, .ini в postgresql
 - Логирование исключений.
 - UI в main.py, все остальное (окна и тд. по папкам)
@@ -45,7 +43,7 @@ https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6
 
 # Авторизация пользователя.
 
-![image](https://user-images.githubusercontent.com/112577182/233430025-0094ed12-30b3-40ca-a016-8938598120e5.png)
+![изображение](https://github.com/sxfour/IPY_51/assets/112577182/cbb77145-fdc8-435b-b727-ecd24ce174ac)
 
 Для каждого имени создается UUID с содержанием строки Имени и мак адреса устройства.
 
