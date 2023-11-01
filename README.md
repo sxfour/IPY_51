@@ -97,6 +97,8 @@ https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6
 Таблица создана через импорт csv файла в postgreSQL
 c помощью команды \COPY tickets FROM ‘Локальный csv’ DELIMITER ‘,’ CSV HEADER;
 
+Для сортировки и удобного редактирования, и поиска по таблице создан автоинкремент (id)
+
 ![image](https://user-images.githubusercontent.com/112577182/230734130-592dd931-fc74-4ddc-ba42-88ce245ea321.png)
 
 Где tickets – название созданной в БД таблицы, из – путь, где хранится  .csv-файл, DELIMITER ‘,’ – разделитель, используемый в импортируемом .csv-файле, сам формат файла и HEADER, указывающий на заголовки «колонок».
