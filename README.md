@@ -90,6 +90,10 @@ c помощью команды \COPY tickets FROM ‘Локальный csv’ 
 
 ![изображение](https://user-images.githubusercontent.com/112577182/233073098-e551148a-c2d1-4b0d-afdd-d67d028ff411.png)
 
+# Поиск хостов по порту
+
+https://github.com/sxfour/IPY_51/assets/112577182/95972c2b-0de7-42c2-8722-ddd01ec041f2
+
 # Все изменения
  [20.03.2024] Изменения:
  - Вкладка конфигурации соединения с базой данных
