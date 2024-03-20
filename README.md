@@ -2,8 +2,8 @@
 
 # Full stack проект для работы с реляционной базой данных.
 Пример работы:
-
 https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6-9e66-ea31b8e67ab5.mp4
+https://github.com/sxfour/IPY_51/assets/112577182/d245c2ae-5d7d-456e-a9fc-80c6c63a6688
 
 - Основной backend соединения с бд в packages, .ini в postgresql
 - Логирование исключений.
